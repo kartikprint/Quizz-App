@@ -22,11 +22,6 @@ const questionsData = [
     incorrectAnswers: ["Candy", "Ice cream", "Donuts"],
   },
   {
-    question: "What is the lifespan of a Shinigami measured in?",
-    correctAnswer: "Time units visible to Shinigami",
-    incorrectAnswers: ["Days", "Years", "Heartbeats"],
-  },
-  {
     question: "Which character becomes the second Kira?",
     correctAnswer: "Misa Amane",
     incorrectAnswers: ["Teru Mikami", "Soichiro Yagami", "Naomi Misora"],
@@ -35,26 +30,6 @@ const questionsData = [
     question: "Who succeeds L in the investigation after his death?",
     correctAnswer: "Near",
     incorrectAnswers: ["Mello", "Aizawa", "Takada"],
-  },
-  {
-    question: "What is the name of the notebook that can kill people?",
-    correctAnswer: "Death Note",
-    incorrectAnswers: ["Death Scroll", "Life Note", "Black Book"],
-  },
-  {
-    question: "What is Light Yagami’s father's name?",
-    correctAnswer: "Soichiro Yagami",
-    incorrectAnswers: ["Aizawa Yagami", "Hirokazu Yagami", "Touta Matsuda"],
-  },
-  {
-    question: "What is Misa Amane’s profession?",
-    correctAnswer: "Model",
-    incorrectAnswers: ["Actress", "Detective", "Student"],
-  },
-  {
-    question: "What must be written in the Death Note to kill someone?",
-    correctAnswer: "Their full name",
-    incorrectAnswers: ["Their nickname", "Their picture", "Their address"],
   },
 ];
 
